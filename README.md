@@ -1,2 +1,2 @@
 # anemos
-##### weather app
+##### weather web application using different technologies.
